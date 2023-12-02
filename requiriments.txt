@@ -1,0 +1,9 @@
+imaplib; python_version >= "3.0"
+email; python_version >= "3.0"
+concurrent.futures; python_version >= "3.2"
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+getpass; python_version >= "3.0"
+platform; python_version >= "3.0"
+subprocess; python_version >= "3.0"
+tkinter; python_version >= "3.0"
